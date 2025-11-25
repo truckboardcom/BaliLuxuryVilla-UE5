@@ -1,0 +1,46 @@
+# Unreal Engine files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio files
+.vs/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Mac
+.DS_Store
+*.app
+
+# Compiled files
+*.o
+*.obj
+*.pdb
+*.idb
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Backup files
+*.bak
+*~
